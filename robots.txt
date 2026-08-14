@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
+Sitemap: Sitemap: https://moustafarezk944.github.io/YD-Beauty/sitemap.xml
