@@ -1,7 +1,7 @@
 Y&D Beauty — Google-ready
 
 قبل الرفع:
-1. استبدل YOUR-DOMAIN.com بالدومين الحقيقي في index.html وrobots.txt وsitemap.xml.
+1. استبدل https://moustafarezk944.github.io/YD-Beauty/m بالدومين الحقيقي في index.html وrobots.txt وsitemap.xml.
 2. ارفع الملفات على استضافة HTTPS.
 3. أضف الموقع إلى Google Search Console.
 4. أرسل sitemap.xml من داخل Search Console.
